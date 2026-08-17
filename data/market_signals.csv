@@ -1,0 +1,9 @@
+search_name,review_rating,review_count,financial_health_score,source_note
+Equal Experts UK Limited,4.6,38,78,Illustrative - client review pattern typical of an established consultancy
+Made Tech Ltd,4.8,21,82,Illustrative - strong recent reviews, smaller review volume consistent with a younger firm
+Codurance Ltd,4.5,29,71,Illustrative - consistent mid-volume review base
+Sparta Global Ltd,4.1,52,75,Illustrative - large review volume, slightly more mixed sentiment
+Kainos Software Ltd,4.4,64,88,Illustrative - large established supplier, strong financial signal
+Ten10 Solutions Ltd,4.3,33,69,Illustrative - steady mid-tier signal across all measures
+Scott Logic Ltd,4.2,45,80,Illustrative - long-established, solid but not top-tier review score
+Infinity Works Consulting Limited,4.7,18,65,Illustrative - very strong reviews, weaker financial signal and low review volume
